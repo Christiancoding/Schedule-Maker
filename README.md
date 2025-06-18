@@ -235,7 +235,7 @@ The reminder generator automatically categorizes plans:
 - Passwords are stored using the system keyring (Windows Credential Manager, macOS Keychain, Linux Secret Service)
 - Configuration files have restricted permissions (600)
 - Input is sanitized to prevent injection attacks
-- No sensitive data is stored in plain text
+- No sensitive data is stored in plain text(Other than email)
 
 ## Contributing
 
