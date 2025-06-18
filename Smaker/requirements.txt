@@ -1,0 +1,17 @@
+# Core dependencies for schedule maker
+keyring>=24.0.0
+css-inline>=0.14.0
+
+# Optional: Enhanced email security
+cryptography>=41.0.0
+
+# Optional: Better email HTML processing  
+lxml>=4.9.0
+
+# Optional: Enhanced logging and debugging
+colorama>=0.4.6
+
+# Development dependencies (optional)
+# black>=23.0.0
+# flake8>=6.0.0
+# pytest>=7.0.0
